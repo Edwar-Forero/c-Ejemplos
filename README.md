@@ -1,1 +1,1 @@
-# c-Ejemplos
+# Ejemplos C++ clase Infraestructuras Paralelas y Distribuidas
